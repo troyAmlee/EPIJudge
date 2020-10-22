@@ -1684,3 +1684,236 @@ Require stack:
     at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
     at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
     at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 02:18:48.408] [renderer1] [error] Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html: Error: Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:717:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/renderer_init.js:930:16)
+    at Module._load (internal/modules/cjs/loader.js:622:27)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (/usr/share/code-oss/resources/app/out/vs/loader.js:694:36)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:1:170)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:207:3)
+    at Module._compile (/usr/share/code-oss/resources/app/out/vs/loader.js:731:45)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:892:10)
+    at Module.load (internal/modules/cjs/loader.js:735:32)
+    at Module._load (internal/modules/cjs/loader.js:648:12)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at nodeRequire (/usr/share/code-oss/resources/app/out/vs/loader.js:1775:32)
+    at NodeScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:750:39)
+    at OnlyOnceScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:588:32)
+    at loadNextPath (/usr/share/code-oss/resources/app/out/vs/loader.js:1530:41)
+    at Object.errorback (/usr/share/code-oss/resources/app/out/vs/loader.js:1538:25)
+    at OnlyOnceScriptLoader.triggerErrorback (/usr/share/code-oss/resources/app/out/vs/loader.js:601:36)
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:588:151
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:767:25
+    at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
+    at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 02:19:53.809] [renderer1] [error] Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html: Error: Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:717:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/renderer_init.js:930:16)
+    at Module._load (internal/modules/cjs/loader.js:622:27)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (/usr/share/code-oss/resources/app/out/vs/loader.js:694:36)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:1:170)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:207:3)
+    at Module._compile (/usr/share/code-oss/resources/app/out/vs/loader.js:731:45)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:892:10)
+    at Module.load (internal/modules/cjs/loader.js:735:32)
+    at Module._load (internal/modules/cjs/loader.js:648:12)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at nodeRequire (/usr/share/code-oss/resources/app/out/vs/loader.js:1775:32)
+    at NodeScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:750:39)
+    at OnlyOnceScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:588:32)
+    at loadNextPath (/usr/share/code-oss/resources/app/out/vs/loader.js:1530:41)
+    at Object.errorback (/usr/share/code-oss/resources/app/out/vs/loader.js:1538:25)
+    at OnlyOnceScriptLoader.triggerErrorback (/usr/share/code-oss/resources/app/out/vs/loader.js:601:36)
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:588:151
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:767:25
+    at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
+    at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 02:19:53.928] [renderer1] [error] Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/bootstrap-amd.js
+- /usr/share/code-oss/resources/app/out/main.js
+- : Error: Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/bootstrap-amd.js
+- /usr/share/code-oss/resources/app/out/main.js
+- 
+    at Module._resolveFilename (internal/modules/cjs/loader.js:717:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/browser_init.js:7645:16)
+    at Module._load (internal/modules/cjs/loader.js:622:27)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (/usr/share/code-oss/resources/app/out/vs/loader.js:694:36)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:1:77)
+    at Module._compile (/usr/share/code-oss/resources/app/out/vs/loader.js:731:45)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:892:10)
+    at Module.load (internal/modules/cjs/loader.js:735:32)
+    at Module._load (internal/modules/cjs/loader.js:648:12)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at NodeScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:750:39)
+    at OnlyOnceScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:588:32)
+    at loadNextPath (/usr/share/code-oss/resources/app/out/vs/loader.js:1530:41)
+    at Object.errorback (/usr/share/code-oss/resources/app/out/vs/loader.js:1538:25)
+    at OnlyOnceScriptLoader.triggerErrorback (/usr/share/code-oss/resources/app/out/vs/loader.js:601:36)
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:588:151
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:767:25
+    at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
+    at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 02:20:53.796] [renderer1] [error] Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html: Error: Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:717:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/renderer_init.js:930:16)
+    at Module._load (internal/modules/cjs/loader.js:622:27)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (/usr/share/code-oss/resources/app/out/vs/loader.js:694:36)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:1:170)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:207:3)
+    at Module._compile (/usr/share/code-oss/resources/app/out/vs/loader.js:731:45)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:892:10)
+    at Module.load (internal/modules/cjs/loader.js:735:32)
+    at Module._load (internal/modules/cjs/loader.js:648:12)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at nodeRequire (/usr/share/code-oss/resources/app/out/vs/loader.js:1775:32)
+    at NodeScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:750:39)
+    at OnlyOnceScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:588:32)
+    at loadNextPath (/usr/share/code-oss/resources/app/out/vs/loader.js:1530:41)
+    at Object.errorback (/usr/share/code-oss/resources/app/out/vs/loader.js:1538:25)
+    at OnlyOnceScriptLoader.triggerErrorback (/usr/share/code-oss/resources/app/out/vs/loader.js:601:36)
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:588:151
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:767:25
+    at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
+    at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 02:21:53.801] [renderer1] [error] Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html: Error: Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:717:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/renderer_init.js:930:16)
+    at Module._load (internal/modules/cjs/loader.js:622:27)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (/usr/share/code-oss/resources/app/out/vs/loader.js:694:36)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:1:170)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:207:3)
+    at Module._compile (/usr/share/code-oss/resources/app/out/vs/loader.js:731:45)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:892:10)
+    at Module.load (internal/modules/cjs/loader.js:735:32)
+    at Module._load (internal/modules/cjs/loader.js:648:12)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at nodeRequire (/usr/share/code-oss/resources/app/out/vs/loader.js:1775:32)
+    at NodeScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:750:39)
+    at OnlyOnceScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:588:32)
+    at loadNextPath (/usr/share/code-oss/resources/app/out/vs/loader.js:1530:41)
+    at Object.errorback (/usr/share/code-oss/resources/app/out/vs/loader.js:1538:25)
+    at OnlyOnceScriptLoader.triggerErrorback (/usr/share/code-oss/resources/app/out/vs/loader.js:601:36)
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:588:151
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:767:25
+    at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
+    at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 03:07:53.997] [renderer1] [error] Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html: Error: Cannot find module '../build/Release/sqlite'
+Require stack:
+- /usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js
+- /usr/share/code-oss/resources/app/out/vs/loader.js
+- /usr/share/code-oss/resources/app/out/bootstrap-window.js
+- /usr/share/code-oss/resources/app/out/vs/code/electron-browser/workbench/workbench.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:717:15)
+    at Function../lib/common/reset-search-paths.ts.Module._resolveFilename (electron/js2c/renderer_init.js:930:16)
+    at Module._load (internal/modules/cjs/loader.js:622:27)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (/usr/share/code-oss/resources/app/out/vs/loader.js:694:36)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:1:170)
+    at Object.<anonymous> (/usr/share/code-oss/resources/app/node_modules.asar/vscode-sqlite3/lib/sqlite3.js:207:3)
+    at Module._compile (/usr/share/code-oss/resources/app/out/vs/loader.js:731:45)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:892:10)
+    at Module.load (internal/modules/cjs/loader.js:735:32)
+    at Module._load (internal/modules/cjs/loader.js:648:12)
+    at Module._load (electron/js2c/asar.js:717:26)
+    at Function.Module._load (electron/js2c/asar.js:717:26)
+    at Module.require (internal/modules/cjs/loader.js:775:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at nodeRequire (/usr/share/code-oss/resources/app/out/vs/loader.js:1775:32)
+    at NodeScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:750:39)
+    at OnlyOnceScriptLoader.load (/usr/share/code-oss/resources/app/out/vs/loader.js:588:32)
+    at loadNextPath (/usr/share/code-oss/resources/app/out/vs/loader.js:1530:41)
+    at Object.errorback (/usr/share/code-oss/resources/app/out/vs/loader.js:1538:25)
+    at OnlyOnceScriptLoader.triggerErrorback (/usr/share/code-oss/resources/app/out/vs/loader.js:601:36)
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:588:151
+    at /usr/share/code-oss/resources/app/out/vs/loader.js:767:25
+    at step_1 (/usr/share/code-oss/resources/app/out/vs/loader.js:889:25)
+    at ReadFileContext.callback (/usr/share/code-oss/resources/app/out/vs/loader.js:897:21)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+[2020-10-22 03:07:57.274] [renderer1] [error] A system error occurred (ENOENT: no such file or directory, open '/usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js'): Error: ENOENT: no such file or directory, open '/usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js'

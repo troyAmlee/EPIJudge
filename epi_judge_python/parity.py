@@ -10,6 +10,7 @@ def parity(x: int) -> int:
     stringify = str(conv)
     listify = list(stringify)
     if(x not in d):
+        
         for i in listify:
             if(i == "1"):
                 summ += 1
@@ -20,6 +21,7 @@ def parity(x: int) -> int:
             d[x] = 1
             return 1
     else:
+        print("---CACHE ACCESSED---")
         return d[x]
 
 
