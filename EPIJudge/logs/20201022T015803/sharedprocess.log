@@ -1,0 +1,9 @@
+[2020-10-22 01:58:08.856] [sharedprocess] [info] main {"machineId":"67741c74ee85331b603c6a252a585d74720b82e61aeda928aa571fdf11bcfd2a","windowId":2}
+[2020-10-22 01:58:08.926] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/pi/Documents/code_projects/EPIJudge/EPIJudge/User/snippets'
+[2020-10-22 01:58:48.904] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-22 01:59:27.291] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-22 01:59:39.868] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/377e72e7-5714-42d9-ab1b-85da6dfb3873
+[2020-10-22 02:00:00.498] [sharedprocess] [info] Extracted extension to /root/.vscode-oss/extensions/.ms-python.python-2020.6.91350: ms-python.python
+[2020-10-22 02:00:00.501] [sharedprocess] [info] Renamed to /root/.vscode-oss/extensions/ms-python.python-2020.6.91350
+[2020-10-22 02:00:00.523] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-22 02:00:00.614] [sharedprocess] [info] Extensions installed successfully: ms-python.python
