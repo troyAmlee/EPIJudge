@@ -1450,7 +1450,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/pi/Documents/code_projects/EPIJudge/EPIJudge/Backups/1603349884873",
+            "folder": "file:///home/pi/Documents/code_projects/EPIJudge",
+            "backupPath": "/home/pi/Documents/code_projects/EPIJudge/EPIJudge/Backups/ec35e8ad55db52ea9154ff3f1bda036b",
             "uiState": {
                 "mode": 0,
                 "x": 450,

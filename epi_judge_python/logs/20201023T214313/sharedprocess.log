@@ -1,0 +1,2 @@
+[2020-10-23 21:43:19.578] [sharedprocess] [info] main {"machineId":"67741c74ee85331b603c6a252a585d74720b82e61aeda928aa571fdf11bcfd2a","windowId":2}
+[2020-10-23 21:43:19.640] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/pi/Documents/code_projects/EPIJudge/epi_judge_python/User/snippets'
