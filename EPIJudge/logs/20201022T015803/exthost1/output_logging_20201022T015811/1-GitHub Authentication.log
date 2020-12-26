@@ -1,0 +1,2 @@
+[Error  - 06:58:11.347] Getting token failed: Error: /usr/share/code-oss/resources/app/node_modules.asar.unpacked/keytar/build/Release/keytar.node: unexpected reloc type 0x03
+[Error  - 06:58:41.357] Getting token failed: Error: /usr/share/code-oss/resources/app/node_modules.asar.unpacked/keytar/build/Release/keytar.node: unexpected reloc type 0x03
